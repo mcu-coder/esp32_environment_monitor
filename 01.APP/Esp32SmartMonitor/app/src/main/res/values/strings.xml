@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ESP32环境监测</string>
+    <string name="debug">调试</string>
+</resources>
